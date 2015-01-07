@@ -1,0 +1,17 @@
+﻿## Interface: 60000
+## Title : JLib - Jerry's Lib
+## Notes: Jerry's private library
+## Notes-zhCN: |cff00ff00Jerry 的私人函数库|r                                             |cffbc8f8f提供技能喊话、个人信息汇报、小游戏|r
+## Notes-zhTW: Jerry 的私人函數庫
+## Author: Jerry
+## Version: 1.1.6
+
+## X-Email: jerry.hz.china@gmail.com
+## X-Category: Miscellaneous
+
+Libs/LibStub/LibStub.lua
+JLib-core.lua
+Game.lua
+JLib-text.lua
+JLib-ForceQuit.lua
+JLib-cmd.lua
