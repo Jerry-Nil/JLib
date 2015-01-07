@@ -1,12 +1,12 @@
 #Wow Addon: JLib - Jerry's Lib
 Note:可打开text.lua修改个性化技能喊话配置
 
-How to use:
-1. /jlib 通报当前经验和装等到当前的队伍或者公屏
-2. /jlib g 通报当前经验和装等到公会
-3. /jlib game 开关猜数字游戏
-4. /jlib d 或者/jlib debug是测试用，可以获取法术/BUFF相关信息
-5. /jlib v 或者/jlib version 显示当前版本信息
+###How to use:
+####1. /jlib 通报当前经验和装等到当前的队伍或者公屏
+####2. /jlib g 通报当前经验和装等到公会
+####3. /jlib game 开关猜数字游戏
+####4. /jlib d 或者/jlib debug是测试用，可以获取法术/BUFF相关信息
+####5. /jlib v 或者/jlib version 显示当前版本信息
 
 Update Info
 Version 1.1.7 2014.9.17
