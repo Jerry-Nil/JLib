@@ -1,4 +1,4 @@
-﻿## Interface: 60000
+﻿## Interface: 60200
 ## Title : JLib - Jerry's Lib
 ## Notes: Jerry's private library
 ## Notes-zhCN: |cff00ff00Jerry 的私人函数库|r                                             |cffbc8f8f提供技能喊话、个人信息汇报、小游戏|r
